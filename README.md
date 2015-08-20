@@ -1,3 +1,5 @@
+Requires Java 8
+
 Libraries used:
 - Java Jersey
 - Guava
